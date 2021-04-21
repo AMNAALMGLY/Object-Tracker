@@ -1,5 +1,5 @@
 # Object-Tracker
-we will build a simple object tracker  on all frames of a video and then will link the predictions from one frame to the next.
+we will build a simple object tracker  on all frames of a video and then will link the predictions from one frame to the next using detectron2 mask RCNN FPN
 
 # Vido link
 https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/videoclip.zip 
