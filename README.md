@@ -1,6 +1,5 @@
 # Object-Tracker
-we will build a simple object tracker  on all frames of a video and then will link the predictions from one frame to the next using detectron2 mask RCNN FPN
-
+we will build a simple object tracker  on all frames of a video and then will link the predictions from one frame to the next using detectron2 mask RCNN FPN.This is project for [AMMI](https://aimsammi.org/) computer vision 2 course taught by [Ross Girshick](https://www.rossgirshick.info/)
 # Vido link
 https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/videoclip.zip 
 
@@ -13,3 +12,4 @@ Implement this pairwise tracker for consecutive pairs of frames in the video cli
 # Part C: Tracking Objects in Videos
 perform pairwise links for a time horizon of 10 frames. Visualize examples of 10-frame trackes and  colorcode the tracks
 -[More discription of the methodolgy and results]()
+-Run the code yourself!
