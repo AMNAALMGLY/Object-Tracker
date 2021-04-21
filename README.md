@@ -1,5 +1,6 @@
 # Object-Tracker
 we will build a simple object tracker  on all frames of a video and then will link the predictions from one frame to the next using detectron2 mask RCNN FPN.This is project for [AMMI](https://aimsammi.org/) computer vision 2 course taught by [Ross Girshick](https://www.rossgirshick.info/)
+![alt text](https://github.com/AMNAALMGLY/Object-Tracker/blob/main/00.jpg?raw=true)
 # Video link
 https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/videoclip.zip 
 
