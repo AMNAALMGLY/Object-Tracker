@@ -11,5 +11,5 @@ Implement this pairwise tracker for consecutive pairs of frames in the video cli
 
 # Part C: Tracking Objects in Videos
 perform pairwise links for a time horizon of 10 frames. Visualize examples of 10-frame trackes and  colorcode the tracks
--[More discription of the methodolgy and results]()
--Run the code yourself!
+- [More discription of the methodolgy and results](https://github.com/AMNAALMGLY/Object-Tracker/blob/main/object%20tracker%20methods%20and%20results.pdf)
+- [Run the code yourself!]()
